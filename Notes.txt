@@ -1,0 +1,2 @@
+render processes (chromium)
+main processes (node)
